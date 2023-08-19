@@ -1,0 +1,1 @@
+# kenda_school_django
